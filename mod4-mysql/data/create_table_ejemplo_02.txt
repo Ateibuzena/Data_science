@@ -1,0 +1,6 @@
+ CREATE TABLE favorite_food (
+     persona_id SMALLINT UNSIGNED,
+     food VARCHAR(20),
+     PRIMARY KEY (persona_id, food),
+     FOREIGN KEY (persona_id) REFERENCES persona (persona_id)
+     );
