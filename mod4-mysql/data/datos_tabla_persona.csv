@@ -1,0 +1,11 @@
+fname,lname,eye_color,birth_date,street,city,state,country,postal_code
+John,Doe,BR,1980-01-01,123 Main Street,Anytown,CA,USA,94043
+Jane,Smith,BL,1985-02-02,456 Elm Street,Anyville,NY,USA,10001
+Peter,Jones,GR,1990-03-03,789 Oak Street,Anycity,TX,USA,78227
+Mary,Brown,BR,1995-04-04,1011 Maple Street,Anytown,WA,USA,98105
+David,Williams,BL,2000-05-05,1213 Pine Street,Anyville,IL,USA,60606
+Susan,Miller,GR,2005-06-06,1415 Oak Street,Anycity,OH,USA,44101
+Michael,Taylor,BL,2010-07-07,1617 Elm Street,Anytown,PA,USA,15232
+Sarah,Anderson,BR,2015-08-08,1819 Maple Street,Anyville,AZ,USA,85251
+Mark,Thomas,GR,2020-09-09,2021 Pine Street,Anycity,CO,USA,80201
+Elizabeth,Johnson,BL,2023-10-10,2223 Oak Street,Anytown,MN,USA,55401
